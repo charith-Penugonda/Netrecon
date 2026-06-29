@@ -22,7 +22,7 @@ This project demonstrates practical skills in:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Layer      | Technology              |
 |------------|-------------------------|
@@ -33,17 +33,17 @@ This project demonstrates practical skills in:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔎 **Host/IP Reconnaissance** — Perform basic recon operations on target hosts
-- 📋 **Scan Logging** — All results stored in SQLite via SQLAlchemy for review
-- 🌐 **Web Interface** — Clean browser-based UI, no command line needed for users
-- 📁 **Modular Flask Structure** — Organized routes, models, and templates
-- 🐧 **Termux Compatible** — Built and tested entirely on Android (Arch Linux proot)
+-  **Host/IP Reconnaissance** — Perform basic recon operations on target hosts
+-  **Scan Logging** — All results stored in SQLite via SQLAlchemy for review
+-  **Web Interface** — Clean browser-based UI, no command line needed for users
+-  **Modular Flask Structure** — Organized routes, models, and templates
+- **Termux Compatible** — Built and tested entirely on Android (Arch Linux proot)
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 netrecon/
@@ -56,7 +56,7 @@ netrecon/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.x
@@ -82,7 +82,7 @@ Then open your browser and navigate to `http://localhost:5000`
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > This tool is intended for **educational purposes only**.
 > Only use NetRecon on systems you own or have **explicit written permission** to test.
@@ -91,7 +91,7 @@ Then open your browser and navigate to `http://localhost:5000`
 
 ---
 
-## 🎯 Learning Goals Achieved
+## Learning Goals Achieved
 
 This project was built to demonstrate the following skills:
 
@@ -104,18 +104,18 @@ This project was built to demonstrate the following skills:
 
 ---
 
-## 👤 Author
+## Author
 
 **Cherry**
-📍 Visakhapatnam, Andhra Pradesh, India
-🎓 Final Year Diploma — Computer Engineering
-🔐 Aspiring Ethical Hacker & Cybersecurity Engineer
+Nidadavole, Andhra Pradesh, India
+Final Year Diploma — Computer Engineering
+Aspiring Ethical Hacker & Cybersecurity Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
