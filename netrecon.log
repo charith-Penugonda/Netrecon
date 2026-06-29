@@ -1,0 +1,886 @@
+2026-05-09 17:09:17,662 -  * Debugger is active!
+2026-05-09 17:09:17,757 -  * Debugger PIN: 117-990-440
+2026-05-09 17:34:07,717 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-09 17:34:07,726 - 127.0.0.1 - - [09/May/2026 17:34:07] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-09 17:34:07,978 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-09 17:34:08,005 - 127.0.0.1 - - [09/May/2026 17:34:08] "GET /login HTTP/1.1" 200 -
+2026-05-09 17:34:08,205 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-09 17:34:08,226 - 127.0.0.1 - - [09/May/2026 17:34:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-09 17:34:08,630 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-09 17:34:08,632 - 127.0.0.1 - - [09/May/2026 17:34:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-09 17:34:30,208 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-09 17:34:30,344 - SUCCESS LOGIN - IP: 127.0.0.1 User: Charith
+2026-05-09 17:34:30,370 - 127.0.0.1 - - [09/May/2026 17:34:30] "POST /login HTTP/1.1" 200 -
+2026-05-09 17:34:30,914 - IP: 127.0.0.1 Method: GET Path: / User: Charith
+2026-05-09 17:34:30,930 - 127.0.0.1 - - [09/May/2026 17:34:30] "GET / HTTP/1.1" 200 -
+2026-05-09 17:34:31,150 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Charith
+2026-05-09 17:34:31,173 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Charith
+2026-05-09 17:34:31,185 - 127.0.0.1 - - [09/May/2026 17:34:31] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-09 17:34:31,195 - 127.0.0.1 - - [09/May/2026 17:34:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-09 17:34:31,430 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Charith
+2026-05-09 17:34:31,438 - 127.0.0.1 - - [09/May/2026 17:34:31] "GET /api/scans HTTP/1.1" 200 -
+2026-05-09 17:36:21,555 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.88.177.216:5000
+2026-05-09 17:36:21,556 - [33mPress CTRL+C to quit[0m
+2026-05-09 17:36:21,565 -  * Restarting with stat
+2026-05-09 17:36:22,910 -  * Debugger is active!
+2026-05-09 17:36:23,020 -  * Debugger PIN: 517-692-059
+2026-05-09 17:58:20,424 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.88.177.216:5000
+2026-05-09 17:58:20,424 - [33mPress CTRL+C to quit[0m
+2026-05-09 17:58:20,432 -  * Restarting with stat
+2026-05-09 17:58:21,562 -  * Debugger is active!
+2026-05-09 17:58:21,640 -  * Debugger PIN: 742-602-222
+2026-05-09 18:03:11,759 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.88.177.216:5000
+2026-05-09 18:03:11,760 - [33mPress CTRL+C to quit[0m
+2026-05-09 18:03:11,766 -  * Restarting with stat
+2026-05-09 18:03:12,846 -  * Debugger is active!
+2026-05-09 18:03:12,918 -  * Debugger PIN: 508-164-843
+2026-05-10 04:17:00,246 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.88.179.188:5000
+2026-05-10 04:17:00,247 - [33mPress CTRL+C to quit[0m
+2026-05-10 04:17:00,255 -  * Restarting with stat
+2026-05-10 04:17:01,315 -  * Debugger is active!
+2026-05-10 04:17:01,400 -  * Debugger PIN: 719-538-980
+2026-05-10 04:20:06,646 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 04:20:06,662 - 127.0.0.1 - - [10/May/2026 04:20:06] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 04:20:06,682 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 04:20:06,712 - 127.0.0.1 - - [10/May/2026 04:20:06] "GET /login HTTP/1.1" 200 -
+2026-05-10 04:20:06,784 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 04:20:06,904 - 127.0.0.1 - - [10/May/2026 04:20:06] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-10 04:20:07,057 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 04:20:07,059 - 127.0.0.1 - - [10/May/2026 04:20:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 04:22:41,804 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 04:22:41,857 - 127.0.0.1 - - [10/May/2026 04:22:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 04:22:57,121 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 04:22:57,217 - FAILED LOGIN - IP: 127.0.0.1 User: cherry
+2026-05-10 04:22:57,225 - 127.0.0.1 - - [10/May/2026 04:22:57] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-10 04:23:00,720 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 04:23:00,725 - SUCCESS LOGIN - IP: 127.0.0.1 User: Cherry
+2026-05-10 04:23:00,732 - 127.0.0.1 - - [10/May/2026 04:23:00] "POST /login HTTP/1.1" 200 -
+2026-05-10 04:23:00,776 - IP: 127.0.0.1 Method: GET Path: / User: Cherry
+2026-05-10 04:23:00,803 - 127.0.0.1 - - [10/May/2026 04:23:00] "GET / HTTP/1.1" 200 -
+2026-05-10 04:23:01,053 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Cherry
+2026-05-10 04:23:01,104 - 127.0.0.1 - - [10/May/2026 04:23:01] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-10 04:23:01,122 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Cherry
+2026-05-10 04:23:01,126 - 127.0.0.1 - - [10/May/2026 04:23:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 04:23:01,190 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Cherry
+2026-05-10 04:23:01,199 - 127.0.0.1 - - [10/May/2026 04:23:01] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 04:48:15,293 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.88.179.188:5000
+2026-05-10 04:48:15,294 - [33mPress CTRL+C to quit[0m
+2026-05-10 04:48:15,302 -  * Restarting with stat
+2026-05-10 04:48:16,359 -  * Debugger is active!
+2026-05-10 04:48:16,434 -  * Debugger PIN: 197-409-420
+2026-05-10 04:50:45,942 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 04:50:45,954 - 127.0.0.1 - - [10/May/2026 04:50:45] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 04:50:46,078 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 04:50:46,112 - 127.0.0.1 - - [10/May/2026 04:50:46] "GET /login HTTP/1.1" 200 -
+2026-05-10 04:50:46,243 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 04:50:46,245 - 127.0.0.1 - - [10/May/2026 04:50:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 04:51:04,114 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 04:51:04,115 - 127.0.0.1 - - [10/May/2026 04:51:04] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 04:51:04,352 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 04:51:04,354 - 127.0.0.1 - - [10/May/2026 04:51:04] "GET /login HTTP/1.1" 200 -
+2026-05-10 04:51:04,549 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 04:51:04,581 - 127.0.0.1 - - [10/May/2026 04:51:04] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-10 04:51:04,806 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 04:51:04,807 - 127.0.0.1 - - [10/May/2026 04:51:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 04:51:07,942 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-10 04:51:07,967 - 127.0.0.1 - - [10/May/2026 04:51:07] "GET /register HTTP/1.1" 200 -
+2026-05-10 04:51:08,255 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 04:51:08,282 - 127.0.0.1 - - [10/May/2026 04:51:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 04:51:26,161 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-10 04:51:26,224 - 127.0.0.1 - - [10/May/2026 04:51:26] "POST /register HTTP/1.1" 200 -
+2026-05-10 04:51:28,623 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 04:51:28,626 - 127.0.0.1 - - [10/May/2026 04:51:28] "GET /login HTTP/1.1" 200 -
+2026-05-10 04:51:28,960 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 04:51:28,964 - 127.0.0.1 - - [10/May/2026 04:51:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 04:51:41,839 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 04:51:41,854 - SUCCESS LOGIN - IP: 127.0.0.1 User: Prasad
+2026-05-10 04:51:41,871 - 127.0.0.1 - - [10/May/2026 04:51:41] "POST /login HTTP/1.1" 200 -
+2026-05-10 04:51:42,294 - IP: 127.0.0.1 Method: GET Path: / User: Prasad
+2026-05-10 04:51:42,311 - 127.0.0.1 - - [10/May/2026 04:51:42] "GET / HTTP/1.1" 200 -
+2026-05-10 04:51:42,648 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Prasad
+2026-05-10 04:51:42,655 - 127.0.0.1 - - [10/May/2026 04:51:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 04:51:42,676 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Prasad
+2026-05-10 04:51:42,687 - 127.0.0.1 - - [10/May/2026 04:51:42] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-05-10 04:51:42,951 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Prasad
+2026-05-10 04:51:42,965 - 127.0.0.1 - - [10/May/2026 04:51:42] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 04:52:26,300 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Prasad
+2026-05-10 04:52:34,677 - 127.0.0.1 - - [10/May/2026 04:52:34] "POST /api/scan HTTP/1.1" 200 -
+2026-05-10 04:52:34,978 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Prasad
+2026-05-10 04:52:34,987 - 127.0.0.1 - - [10/May/2026 04:52:34] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:12:01,220 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:12:01,232 - 127.0.0.1 - - [10/May/2026 05:12:01] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:12:01,384 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:12:01,393 - 127.0.0.1 - - [10/May/2026 05:12:01] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:12:01,605 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:12:01,609 - 127.0.0.1 - - [10/May/2026 05:12:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:16:07,993 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:16:08,000 - 127.0.0.1 - - [10/May/2026 05:16:08] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:16:08,218 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:16:08,227 - 127.0.0.1 - - [10/May/2026 05:16:08] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:16:08,442 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:16:08,462 - 127.0.0.1 - - [10/May/2026 05:16:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-10 05:16:08,918 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:16:08,921 - 127.0.0.1 - - [10/May/2026 05:16:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:17:06,560 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 05:17:06,610 - FAILED LOGIN - IP: 127.0.0.1 User: Trafic
+2026-05-10 05:17:06,618 - 127.0.0.1 - - [10/May/2026 05:17:06] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-10 05:17:13,082 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-10 05:17:13,103 - 127.0.0.1 - - [10/May/2026 05:17:13] "GET /register HTTP/1.1" 200 -
+2026-05-10 05:17:14,029 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:17:14,051 - 127.0.0.1 - - [10/May/2026 05:17:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:17:36,322 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-10 05:17:36,373 - 127.0.0.1 - - [10/May/2026 05:17:36] "POST /register HTTP/1.1" 200 -
+2026-05-10 05:17:38,660 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:17:38,664 - 127.0.0.1 - - [10/May/2026 05:17:38] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:17:39,028 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:17:39,032 - 127.0.0.1 - - [10/May/2026 05:17:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:18:00,748 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 05:18:00,764 - SUCCESS LOGIN - IP: 127.0.0.1 User: Trafic
+2026-05-10 05:18:00,774 - 127.0.0.1 - - [10/May/2026 05:18:00] "POST /login HTTP/1.1" 200 -
+2026-05-10 05:18:01,206 - IP: 127.0.0.1 Method: GET Path: / User: Trafic
+2026-05-10 05:18:01,219 - 127.0.0.1 - - [10/May/2026 05:18:01] "GET / HTTP/1.1" 200 -
+2026-05-10 05:18:01,597 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Trafic
+2026-05-10 05:18:01,611 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Trafic
+2026-05-10 05:18:01,621 - 127.0.0.1 - - [10/May/2026 05:18:01] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-10 05:18:01,634 - 127.0.0.1 - - [10/May/2026 05:18:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:18:01,837 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Trafic
+2026-05-10 05:18:01,846 - 127.0.0.1 - - [10/May/2026 05:18:01] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:18:24,567 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Trafic
+2026-05-10 05:18:30,585 - 127.0.0.1 - - [10/May/2026 05:18:30] "POST /api/scan HTTP/1.1" 200 -
+2026-05-10 05:18:30,831 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Trafic
+2026-05-10 05:18:30,845 - 127.0.0.1 - - [10/May/2026 05:18:30] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:19:22,059 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Trafic
+2026-05-10 05:19:26,530 - 127.0.0.1 - - [10/May/2026 05:19:26] "POST /api/scan HTTP/1.1" 200 -
+2026-05-10 05:19:28,101 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Trafic
+2026-05-10 05:19:28,107 - 127.0.0.1 - - [10/May/2026 05:19:28] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:24:28,934 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:24:28,945 - 127.0.0.1 - - [10/May/2026 05:24:28] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:24:29,586 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:24:29,608 - 127.0.0.1 - - [10/May/2026 05:24:29] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:24:29,791 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:24:29,797 - 127.0.0.1 - - [10/May/2026 05:24:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:27:22,587 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:27:22,596 - 127.0.0.1 - - [10/May/2026 05:27:22] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:27:22,764 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:27:22,778 - 127.0.0.1 - - [10/May/2026 05:27:22] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:27:23,055 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:27:23,063 - 127.0.0.1 - - [10/May/2026 05:27:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:28:37,100 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:28:37,113 - 127.0.0.1 - - [10/May/2026 05:28:37] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:28:37,272 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:28:37,288 - 127.0.0.1 - - [10/May/2026 05:28:37] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:28:37,541 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:28:37,561 - 127.0.0.1 - - [10/May/2026 05:28:37] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-10 05:28:37,973 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:28:37,977 - 127.0.0.1 - - [10/May/2026 05:28:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:28:44,610 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-10 05:28:44,629 - 127.0.0.1 - - [10/May/2026 05:28:44] "GET /register HTTP/1.1" 200 -
+2026-05-10 05:28:44,999 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:28:45,009 - 127.0.0.1 - - [10/May/2026 05:28:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:29:32,583 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-10 05:29:32,699 - 127.0.0.1 - - [10/May/2026 05:29:32] "POST /register HTTP/1.1" 200 -
+2026-05-10 05:29:35,246 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:29:35,249 - 127.0.0.1 - - [10/May/2026 05:29:35] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:29:35,467 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:29:35,474 - 127.0.0.1 - - [10/May/2026 05:29:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:29:44,155 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 05:29:44,163 - SUCCESS LOGIN - IP: 127.0.0.1 User: Navad097
+2026-05-10 05:29:44,173 - 127.0.0.1 - - [10/May/2026 05:29:44] "POST /login HTTP/1.1" 200 -
+2026-05-10 05:29:44,458 - IP: 127.0.0.1 Method: GET Path: / User: Navad097
+2026-05-10 05:29:44,464 - 127.0.0.1 - - [10/May/2026 05:29:44] "GET / HTTP/1.1" 200 -
+2026-05-10 05:29:44,708 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Navad097
+2026-05-10 05:29:44,736 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Navad097
+2026-05-10 05:29:44,741 - 127.0.0.1 - - [10/May/2026 05:29:44] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-10 05:29:44,750 - 127.0.0.1 - - [10/May/2026 05:29:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:29:44,994 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Navad097
+2026-05-10 05:29:45,002 - 127.0.0.1 - - [10/May/2026 05:29:45] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:30:12,478 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Navad097
+2026-05-10 05:30:15,099 - 127.0.0.1 - - [10/May/2026 05:30:15] "POST /api/scan HTTP/1.1" 200 -
+2026-05-10 05:30:15,277 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Navad097
+2026-05-10 05:30:15,284 - 127.0.0.1 - - [10/May/2026 05:30:15] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:30:47,051 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Navad097
+2026-05-10 05:30:47,083 - 127.0.0.1 - - [10/May/2026 05:30:47] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:31:18,007 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:31:18,012 - 127.0.0.1 - - [10/May/2026 05:31:18] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:31:18,142 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:31:18,146 - 127.0.0.1 - - [10/May/2026 05:31:18] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:31:18,337 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:31:18,349 - 127.0.0.1 - - [10/May/2026 05:31:18] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-10 05:31:18,520 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:31:18,524 - 127.0.0.1 - - [10/May/2026 05:31:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:31:23,273 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 05:31:23,282 - FAILED LOGIN - IP: 127.0.0.1 User: Gcxx
+2026-05-10 05:31:23,285 - 127.0.0.1 - - [10/May/2026 05:31:23] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-10 05:31:27,216 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-10 05:31:27,227 - FAILED LOGIN - IP: 127.0.0.1 User: Gcxxbbbb
+2026-05-10 05:31:27,229 - 127.0.0.1 - - [10/May/2026 05:31:27] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-10 05:32:59,930 - IP: 127.0.0.1 Method: POST Path: /login User: Navad097
+2026-05-10 05:33:00,438 - SUCCESS LOGIN - IP: 127.0.0.1 User: Navad097
+2026-05-10 05:33:00,633 - 127.0.0.1 - - [10/May/2026 05:33:00] "POST /login HTTP/1.1" 200 -
+2026-05-10 05:33:01,478 - IP: 127.0.0.1 Method: GET Path: / User: Navad097
+2026-05-10 05:33:01,521 - 127.0.0.1 - - [10/May/2026 05:33:01] "GET / HTTP/1.1" 200 -
+2026-05-10 05:33:02,026 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Navad097
+2026-05-10 05:33:02,307 - 127.0.0.1 - - [10/May/2026 05:33:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:33:02,239 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Navad097
+2026-05-10 05:33:02,838 - 127.0.0.1 - - [10/May/2026 05:33:02] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-05-10 05:33:03,270 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Navad097
+2026-05-10 05:33:03,454 - 127.0.0.1 - - [10/May/2026 05:33:03] "GET /api/scans HTTP/1.1" 200 -
+2026-05-10 05:45:14,138 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:45:14,146 - 127.0.0.1 - - [10/May/2026 05:45:14] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:45:14,373 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:45:14,389 - 127.0.0.1 - - [10/May/2026 05:45:14] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:45:14,628 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:45:14,648 - 127.0.0.1 - - [10/May/2026 05:45:14] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-10 05:45:15,067 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:45:15,071 - 127.0.0.1 - - [10/May/2026 05:45:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:45:30,506 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:45:30,508 - 127.0.0.1 - - [10/May/2026 05:45:30] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:45:31,030 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:45:31,040 - 127.0.0.1 - - [10/May/2026 05:45:31] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:45:31,243 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:45:31,259 - 127.0.0.1 - - [10/May/2026 05:45:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:46:28,445 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:46:28,452 - 127.0.0.1 - - [10/May/2026 05:46:28] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:46:28,949 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:46:28,958 - 127.0.0.1 - - [10/May/2026 05:46:28] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:46:29,188 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:46:29,202 - 127.0.0.1 - - [10/May/2026 05:46:29] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-10 05:46:29,623 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:46:29,628 - 127.0.0.1 - - [10/May/2026 05:46:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 05:47:22,297 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-10 05:47:22,306 - 127.0.0.1 - - [10/May/2026 05:47:22] "GET /register HTTP/1.1" 200 -
+2026-05-10 05:47:22,470 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:47:22,487 - 127.0.0.1 - - [10/May/2026 05:47:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:53:33,531 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 05:53:33,539 - 127.0.0.1 - - [10/May/2026 05:53:33] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 05:53:33,725 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 05:53:33,744 - 127.0.0.1 - - [10/May/2026 05:53:33] "GET /login HTTP/1.1" 200 -
+2026-05-10 05:53:33,937 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-10 05:53:33,949 - 127.0.0.1 - - [10/May/2026 05:53:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-10 05:53:34,226 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 05:53:34,230 - 127.0.0.1 - - [10/May/2026 05:53:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-10 06:58:04,672 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-10 06:58:04,685 - 127.0.0.1 - - [10/May/2026 06:58:04] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-10 06:58:04,885 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-10 06:58:04,897 - 127.0.0.1 - - [10/May/2026 06:58:04] "GET /login HTTP/1.1" 200 -
+2026-05-10 06:58:05,101 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-10 06:58:05,108 - 127.0.0.1 - - [10/May/2026 06:58:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-11 16:33:54,677 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.85.52.213:5000
+2026-05-11 16:33:54,677 - [33mPress CTRL+C to quit[0m
+2026-05-11 16:33:54,687 -  * Restarting with stat
+2026-05-11 16:33:55,980 -  * Debugger is active!
+2026-05-11 16:33:56,106 -  * Debugger PIN: 786-707-829
+2026-05-11 16:36:06,962 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.85.52.213:5000
+2026-05-11 16:36:06,963 - [33mPress CTRL+C to quit[0m
+2026-05-11 16:36:06,968 -  * Restarting with stat
+2026-05-11 16:36:08,126 -  * Debugger is active!
+2026-05-11 16:36:08,215 -  * Debugger PIN: 574-315-429
+2026-05-11 16:36:56,423 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-11 16:36:56,427 - 127.0.0.1 - - [11/May/2026 16:36:56] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-11 16:36:56,674 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-11 16:36:56,701 - 127.0.0.1 - - [11/May/2026 16:36:56] "GET /login HTTP/1.1" 200 -
+2026-05-11 16:36:56,907 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-11 16:36:56,911 - 127.0.0.1 - - [11/May/2026 16:36:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-11 16:43:29,406 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-11 16:43:29,412 - 127.0.0.1 - - [11/May/2026 16:43:29] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-11 16:43:29,717 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-11 16:43:29,723 - 127.0.0.1 - - [11/May/2026 16:43:29] "GET /login HTTP/1.1" 200 -
+2026-05-11 16:43:29,982 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-11 16:43:30,009 - 127.0.0.1 - - [11/May/2026 16:43:30] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-11 16:43:30,373 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-11 16:43:30,376 - 127.0.0.1 - - [11/May/2026 16:43:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-11 16:43:32,974 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-11 16:43:33,021 - 127.0.0.1 - - [11/May/2026 16:43:33] "GET /register HTTP/1.1" 200 -
+2026-05-11 16:43:33,252 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-11 16:43:33,258 - 127.0.0.1 - - [11/May/2026 16:43:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-11 16:43:48,281 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-11 16:43:48,524 - 127.0.0.1 - - [11/May/2026 16:43:48] "POST /register HTTP/1.1" 200 -
+2026-05-11 16:43:50,842 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-11 16:43:50,844 - 127.0.0.1 - - [11/May/2026 16:43:50] "GET /login HTTP/1.1" 200 -
+2026-05-11 16:43:51,112 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-11 16:43:51,117 - 127.0.0.1 - - [11/May/2026 16:43:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-11 16:44:50,406 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-11 16:44:50,410 - SUCCESS LOGIN - IP: 127.0.0.1 User: Sravya
+2026-05-11 16:44:50,418 - 127.0.0.1 - - [11/May/2026 16:44:50] "POST /login HTTP/1.1" 200 -
+2026-05-11 16:44:50,588 - IP: 127.0.0.1 Method: GET Path: / User: Sravya
+2026-05-11 16:44:50,603 - 127.0.0.1 - - [11/May/2026 16:44:50] "GET / HTTP/1.1" 200 -
+2026-05-11 16:44:50,749 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Sravya
+2026-05-11 16:44:50,760 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Sravya
+2026-05-11 16:44:50,761 - 127.0.0.1 - - [11/May/2026 16:44:50] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-11 16:44:50,765 - 127.0.0.1 - - [11/May/2026 16:44:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-11 16:44:50,943 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Sravya
+2026-05-11 16:44:50,950 - 127.0.0.1 - - [11/May/2026 16:44:50] "GET /api/scans HTTP/1.1" 200 -
+2026-05-12 06:02:05,791 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.65.8.66:5000
+2026-05-12 06:02:05,792 - [33mPress CTRL+C to quit[0m
+2026-05-12 06:02:05,801 -  * Restarting with stat
+2026-05-12 06:02:07,081 -  * Debugger is active!
+2026-05-12 06:02:07,179 -  * Debugger PIN: 378-054-394
+2026-05-12 06:09:43,213 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-12 06:09:43,242 - 127.0.0.1 - - [12/May/2026 06:09:43] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-12 06:09:43,470 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-12 06:09:43,563 - 127.0.0.1 - - [12/May/2026 06:09:43] "GET /login HTTP/1.1" 200 -
+2026-05-12 06:09:43,876 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-12 06:09:44,084 - 127.0.0.1 - - [12/May/2026 06:09:44] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-12 06:09:44,765 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-12 06:09:44,773 - 127.0.0.1 - - [12/May/2026 06:09:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-12 10:42:57,170 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-12 10:42:57,178 - 127.0.0.1 - - [12/May/2026 10:42:57] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-12 10:42:57,380 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-12 10:42:57,394 - 127.0.0.1 - - [12/May/2026 10:42:57] "GET /login HTTP/1.1" 200 -
+2026-05-12 10:42:57,579 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-12 10:42:57,599 - 127.0.0.1 - - [12/May/2026 10:42:57] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-12 10:42:59,681 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-12 10:42:59,706 - 127.0.0.1 - - [12/May/2026 10:42:59] "GET /register HTTP/1.1" 200 -
+2026-05-12 10:42:59,851 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-12 10:42:59,857 - 127.0.0.1 - - [12/May/2026 10:42:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-12 10:43:33,753 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-12 10:43:33,834 - 127.0.0.1 - - [12/May/2026 10:43:33] "POST /register HTTP/1.1" 200 -
+2026-05-12 10:43:36,001 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-12 10:43:36,005 - 127.0.0.1 - - [12/May/2026 10:43:36] "GET /login HTTP/1.1" 200 -
+2026-05-12 10:43:36,145 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-12 10:43:36,152 - 127.0.0.1 - - [12/May/2026 10:43:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-12 10:43:51,703 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-12 10:43:51,716 - SUCCESS LOGIN - IP: 127.0.0.1 User: Bannu.p
+2026-05-12 10:43:51,724 - 127.0.0.1 - - [12/May/2026 10:43:51] "POST /login HTTP/1.1" 200 -
+2026-05-12 10:43:51,966 - IP: 127.0.0.1 Method: GET Path: / User: Bannu.p
+2026-05-12 10:43:52,003 - 127.0.0.1 - - [12/May/2026 10:43:52] "GET / HTTP/1.1" 200 -
+2026-05-12 10:43:52,155 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Bannu.p
+2026-05-12 10:43:52,165 - 127.0.0.1 - - [12/May/2026 10:43:52] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-12 10:43:52,607 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Bannu.p
+2026-05-12 10:43:52,611 - 127.0.0.1 - - [12/May/2026 10:43:52] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-12 10:43:52,844 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Bannu.p
+2026-05-12 10:43:52,854 - 127.0.0.1 - - [12/May/2026 10:43:52] "GET /api/scans HTTP/1.1" 200 -
+2026-05-12 10:44:20,890 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Bannu.p
+2026-05-12 10:44:23,932 - 127.0.0.1 - - [12/May/2026 10:44:23] "POST /api/scan HTTP/1.1" 200 -
+2026-05-12 10:44:24,291 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Bannu.p
+2026-05-12 10:44:24,300 - 127.0.0.1 - - [12/May/2026 10:44:24] "GET /api/scans HTTP/1.1" 200 -
+2026-05-12 10:45:12,426 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Bannu.p
+2026-05-12 10:45:15,535 - 127.0.0.1 - - [12/May/2026 10:45:15] "POST /api/scan HTTP/1.1" 200 -
+2026-05-12 10:45:15,664 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Bannu.p
+2026-05-12 10:45:15,688 - 127.0.0.1 - - [12/May/2026 10:45:15] "GET /api/scans HTTP/1.1" 200 -
+2026-05-12 10:45:26,044 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Bannu.p
+2026-05-12 10:45:31,930 - 127.0.0.1 - - [12/May/2026 10:45:31] "POST /api/scan HTTP/1.1" 200 -
+2026-05-12 10:45:32,167 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Bannu.p
+2026-05-12 10:45:32,187 - 127.0.0.1 - - [12/May/2026 10:45:32] "GET /api/scans HTTP/1.1" 200 -
+2026-05-12 10:46:36,442 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Bannu.p
+2026-05-12 10:46:38,671 - 127.0.0.1 - - [12/May/2026 10:46:38] "POST /api/scan HTTP/1.1" 200 -
+2026-05-12 10:46:38,821 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Bannu.p
+2026-05-12 10:46:38,832 - 127.0.0.1 - - [12/May/2026 10:46:38] "GET /api/scans HTTP/1.1" 200 -
+2026-05-12 11:56:59,149 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-12 11:56:59,196 - 127.0.0.1 - - [12/May/2026 11:56:59] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-12 11:56:59,892 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-12 11:56:59,963 - 127.0.0.1 - - [12/May/2026 11:56:59] "GET /login HTTP/1.1" 200 -
+2026-05-12 11:57:00,664 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-12 11:57:00,679 - 127.0.0.1 - - [12/May/2026 11:57:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-12 11:57:22,474 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-12 11:57:22,525 - 127.0.0.1 - - [12/May/2026 11:57:22] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-12 11:57:22,812 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-12 11:57:22,833 - 127.0.0.1 - - [12/May/2026 11:57:22] "GET /login HTTP/1.1" 200 -
+2026-05-12 11:57:22,958 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-12 11:57:22,961 - 127.0.0.1 - - [12/May/2026 11:57:22] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-12 11:57:23,053 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-12 11:57:23,057 - 127.0.0.1 - - [12/May/2026 11:57:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-12 11:57:23,168 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-12 11:57:23,170 - 127.0.0.1 - - [12/May/2026 11:57:23] "GET /login HTTP/1.1" 200 -
+2026-05-12 11:57:23,383 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-12 11:57:23,384 - 127.0.0.1 - - [12/May/2026 11:57:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-12 12:14:13,361 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-12 12:14:13,372 - 127.0.0.1 - - [12/May/2026 12:14:13] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-12 12:14:13,932 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-12 12:14:13,951 - 127.0.0.1 - - [12/May/2026 12:14:13] "GET /login HTTP/1.1" 200 -
+2026-05-12 12:14:14,527 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-12 12:14:14,559 - 127.0.0.1 - - [12/May/2026 12:14:14] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-12 12:14:15,225 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-12 12:14:15,229 - 127.0.0.1 - - [12/May/2026 12:14:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-12 12:14:52,013 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-12 12:14:52,032 - 127.0.0.1 - - [12/May/2026 12:14:52] "GET /register HTTP/1.1" 200 -
+2026-05-12 12:14:52,637 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-12 12:14:52,648 - 127.0.0.1 - - [12/May/2026 12:14:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-20 12:24:56,354 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.126.166.40:5000
+2026-05-20 12:24:56,354 - [33mPress CTRL+C to quit[0m
+2026-05-20 12:24:56,360 -  * Restarting with stat
+2026-05-20 12:24:57,587 -  * Debugger is active!
+2026-05-20 12:24:57,681 -  * Debugger PIN: 339-796-909
+2026-05-20 12:25:57,854 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-20 12:25:57,870 - 127.0.0.1 - - [20/May/2026 12:25:57] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-20 12:25:58,091 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-20 12:25:58,114 - 127.0.0.1 - - [20/May/2026 12:25:58] "GET /login HTTP/1.1" 200 -
+2026-05-20 12:25:58,263 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-20 12:25:58,269 - 127.0.0.1 - - [20/May/2026 12:25:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-20 12:26:15,563 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-20 12:26:15,568 - 127.0.0.1 - - [20/May/2026 12:26:15] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-20 12:26:15,922 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-20 12:26:15,926 - 127.0.0.1 - - [20/May/2026 12:26:15] "GET /login HTTP/1.1" 200 -
+2026-05-20 12:26:16,072 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-20 12:26:16,112 - 127.0.0.1 - - [20/May/2026 12:26:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-20 12:26:16,313 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-20 12:26:16,314 - 127.0.0.1 - - [20/May/2026 12:26:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-20 12:26:35,785 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-20 12:26:35,826 - FAILED LOGIN - IP: 127.0.0.1 User: Sowji
+2026-05-20 12:26:35,827 - 127.0.0.1 - - [20/May/2026 12:26:35] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-20 12:27:24,982 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-20 12:27:24,985 - 127.0.0.1 - - [20/May/2026 12:27:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-20 12:28:09,453 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-20 12:28:09,476 - 127.0.0.1 - - [20/May/2026 12:28:09] "GET /register HTTP/1.1" 200 -
+2026-05-20 12:28:10,349 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-20 12:28:10,355 - 127.0.0.1 - - [20/May/2026 12:28:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-20 12:28:30,275 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-20 12:28:30,323 - 127.0.0.1 - - [20/May/2026 12:28:30] "POST /register HTTP/1.1" 200 -
+2026-05-20 12:28:32,725 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-20 12:28:32,729 - 127.0.0.1 - - [20/May/2026 12:28:32] "GET /login HTTP/1.1" 200 -
+2026-05-20 12:28:33,135 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-20 12:28:33,139 - 127.0.0.1 - - [20/May/2026 12:28:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-20 12:28:49,933 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-20 12:28:49,956 - SUCCESS LOGIN - IP: 127.0.0.1 User: Sowji
+2026-05-20 12:28:49,977 - 127.0.0.1 - - [20/May/2026 12:28:49] "POST /login HTTP/1.1" 200 -
+2026-05-20 12:28:50,404 - IP: 127.0.0.1 Method: GET Path: / User: Sowji
+2026-05-20 12:28:50,439 - 127.0.0.1 - - [20/May/2026 12:28:50] "GET / HTTP/1.1" 200 -
+2026-05-20 12:28:50,783 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Sowji
+2026-05-20 12:28:50,794 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Sowji
+2026-05-20 12:28:50,820 - 127.0.0.1 - - [20/May/2026 12:28:50] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-20 12:28:50,824 - 127.0.0.1 - - [20/May/2026 12:28:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-20 12:28:51,790 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Sowji
+2026-05-20 12:28:51,800 - 127.0.0.1 - - [20/May/2026 12:28:51] "GET /api/scans HTTP/1.1" 200 -
+2026-05-20 12:29:46,255 - IP: 127.0.0.1 Method: GET Path: / User: Sowji
+2026-05-20 12:29:46,258 - 127.0.0.1 - - [20/May/2026 12:29:46] "GET / HTTP/1.1" 200 -
+2026-05-20 12:29:47,067 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Sowji
+2026-05-20 12:29:47,133 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Sowji
+2026-05-20 12:29:47,169 - 127.0.0.1 - - [20/May/2026 12:29:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-20 12:29:47,214 - 127.0.0.1 - - [20/May/2026 12:29:47] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-05-20 12:29:47,533 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Sowji
+2026-05-20 12:29:47,600 - 127.0.0.1 - - [20/May/2026 12:29:47] "GET /api/scans HTTP/1.1" 200 -
+2026-05-21 07:44:39,367 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-21 07:44:39,374 - 127.0.0.1 - - [21/May/2026 07:44:39] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-21 07:44:39,844 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-21 07:44:39,878 - 127.0.0.1 - - [21/May/2026 07:44:39] "GET /login HTTP/1.1" 200 -
+2026-05-21 07:44:40,491 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-21 07:44:40,508 - 127.0.0.1 - - [21/May/2026 07:44:40] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-21 07:44:41,100 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-21 07:44:41,108 - 127.0.0.1 - - [21/May/2026 07:44:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-21 07:51:50,492 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-21 07:51:50,498 - 127.0.0.1 - - [21/May/2026 07:51:50] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-21 07:51:52,585 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-21 07:51:52,598 - 127.0.0.1 - - [21/May/2026 07:51:52] "GET /login HTTP/1.1" 200 -
+2026-05-21 07:51:53,646 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-21 07:51:53,682 - 127.0.0.1 - - [21/May/2026 07:51:53] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-21 07:51:54,297 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-21 07:51:54,301 - 127.0.0.1 - - [21/May/2026 07:51:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-21 07:51:57,236 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-21 07:51:57,250 - 127.0.0.1 - - [21/May/2026 07:51:57] "GET /register HTTP/1.1" 200 -
+2026-05-21 07:51:57,828 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-21 07:51:57,832 - 127.0.0.1 - - [21/May/2026 07:51:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-21 07:52:17,233 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-21 07:52:17,286 - 127.0.0.1 - - [21/May/2026 07:52:17] "POST /register HTTP/1.1" 200 -
+2026-05-21 07:52:23,927 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-21 07:52:23,931 - 127.0.0.1 - - [21/May/2026 07:52:23] "GET /login HTTP/1.1" 200 -
+2026-05-21 07:52:24,240 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-21 07:52:24,243 - 127.0.0.1 - - [21/May/2026 07:52:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-21 07:52:36,672 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-21 07:52:36,677 - SUCCESS LOGIN - IP: 127.0.0.1 User: chaithu_948
+2026-05-21 07:52:36,689 - 127.0.0.1 - - [21/May/2026 07:52:36] "POST /login HTTP/1.1" 200 -
+2026-05-21 07:52:36,960 - IP: 127.0.0.1 Method: GET Path: / User: chaithu_948
+2026-05-21 07:52:36,972 - 127.0.0.1 - - [21/May/2026 07:52:36] "GET / HTTP/1.1" 200 -
+2026-05-21 07:52:37,265 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: chaithu_948
+2026-05-21 07:52:37,290 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: chaithu_948
+2026-05-21 07:52:37,294 - 127.0.0.1 - - [21/May/2026 07:52:37] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-21 07:52:37,308 - 127.0.0.1 - - [21/May/2026 07:52:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-21 07:52:37,756 - IP: 127.0.0.1 Method: GET Path: /api/scans User: chaithu_948
+2026-05-21 07:52:37,765 - 127.0.0.1 - - [21/May/2026 07:52:37] "GET /api/scans HTTP/1.1" 200 -
+2026-05-21 07:53:03,819 - IP: 127.0.0.1 Method: POST Path: /api/scan User: chaithu_948
+2026-05-21 07:53:06,007 - 127.0.0.1 - - [21/May/2026 07:53:06] "POST /api/scan HTTP/1.1" 200 -
+2026-05-21 07:53:07,592 - IP: 127.0.0.1 Method: GET Path: /api/scans User: chaithu_948
+2026-05-21 07:53:07,604 - 127.0.0.1 - - [21/May/2026 07:53:07] "GET /api/scans HTTP/1.1" 200 -
+2026-05-24 07:22:26,292 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.126.166.40:5000
+2026-05-24 07:22:26,294 - [33mPress CTRL+C to quit[0m
+2026-05-24 07:22:26,311 -  * Restarting with stat
+2026-05-24 07:22:27,657 -  * Debugger is active!
+2026-05-24 07:22:27,753 -  * Debugger PIN: 108-208-991
+2026-05-24 07:22:49,073 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-24 07:22:49,079 - 127.0.0.1 - - [24/May/2026 07:22:49] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-24 07:22:49,103 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-24 07:22:49,156 - 127.0.0.1 - - [24/May/2026 07:22:49] "GET /login HTTP/1.1" 200 -
+2026-05-24 07:22:49,461 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-24 07:22:49,486 - 127.0.0.1 - - [24/May/2026 07:22:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-24 07:22:49,660 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-24 07:22:49,665 - 127.0.0.1 - - [24/May/2026 07:22:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-24 07:23:10,500 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-24 07:23:10,619 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-05-24 07:23:10,639 - 127.0.0.1 - - [24/May/2026 07:23:10] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-24 07:23:11,925 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-24 07:23:11,965 - 127.0.0.1 - - [24/May/2026 07:23:11] "GET /register HTTP/1.1" 200 -
+2026-05-24 07:23:12,180 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-24 07:23:12,372 - 127.0.0.1 - - [24/May/2026 07:23:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-24 07:23:28,059 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-24 07:23:28,102 - 127.0.0.1 - - [24/May/2026 07:23:28] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2026-05-24 07:23:37,703 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-24 07:23:37,815 - 127.0.0.1 - - [24/May/2026 07:23:37] "POST /register HTTP/1.1" 200 -
+2026-05-24 07:23:39,954 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-24 07:23:39,977 - 127.0.0.1 - - [24/May/2026 07:23:39] "GET /login HTTP/1.1" 200 -
+2026-05-24 07:23:40,037 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-24 07:23:40,054 - 127.0.0.1 - - [24/May/2026 07:23:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-24 07:23:42,727 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-24 07:23:42,743 - 127.0.0.1 - - [24/May/2026 07:23:42] "GET /register HTTP/1.1" 200 -
+2026-05-24 07:23:42,788 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-24 07:23:42,807 - 127.0.0.1 - - [24/May/2026 07:23:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-24 07:23:46,260 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-24 07:23:46,266 - 127.0.0.1 - - [24/May/2026 07:23:46] "GET /login HTTP/1.1" 200 -
+2026-05-24 07:23:46,340 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-24 07:23:46,345 - 127.0.0.1 - - [24/May/2026 07:23:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-24 07:23:57,672 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-24 07:23:57,710 - SUCCESS LOGIN - IP: 127.0.0.1 User: Cherrylove
+2026-05-24 07:23:57,730 - 127.0.0.1 - - [24/May/2026 07:23:57] "POST /login HTTP/1.1" 200 -
+2026-05-24 07:23:57,833 - IP: 127.0.0.1 Method: GET Path: / User: Cherrylove
+2026-05-24 07:23:57,868 - 127.0.0.1 - - [24/May/2026 07:23:57] "GET / HTTP/1.1" 200 -
+2026-05-24 07:23:57,901 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Cherrylove
+2026-05-24 07:23:57,912 - 127.0.0.1 - - [24/May/2026 07:23:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-24 07:23:57,956 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Cherrylove
+2026-05-24 07:23:57,971 - 127.0.0.1 - - [24/May/2026 07:23:57] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+2026-05-24 07:23:58,037 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Cherrylove
+2026-05-24 07:23:58,061 - 127.0.0.1 - - [24/May/2026 07:23:58] "GET /api/scans HTTP/1.1" 200 -
+2026-05-24 07:24:11,416 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Cherrylove
+2026-05-24 07:24:13,925 - 127.0.0.1 - - [24/May/2026 07:24:13] "POST /api/scan HTTP/1.1" 200 -
+2026-05-24 07:24:13,961 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Cherrylove
+2026-05-24 07:24:13,979 - 127.0.0.1 - - [24/May/2026 07:24:13] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 06:57:50,547 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.112.121.201:5000
+2026-05-25 06:57:50,552 - [33mPress CTRL+C to quit[0m
+2026-05-25 06:57:50,560 -  * Restarting with stat
+2026-05-25 06:57:51,456 -  * Debugger is active!
+2026-05-25 06:57:51,553 -  * Debugger PIN: 533-164-020
+2026-05-25 06:59:30,959 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 06:59:30,966 - 127.0.0.1 - - [25/May/2026 06:59:30] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 06:59:31,134 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 06:59:31,184 - 127.0.0.1 - - [25/May/2026 06:59:31] "GET /login HTTP/1.1" 200 -
+2026-05-25 06:59:31,362 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-25 06:59:31,368 - 127.0.0.1 - - [25/May/2026 06:59:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 06:59:50,458 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 06:59:50,460 - 127.0.0.1 - - [25/May/2026 06:59:50] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 06:59:50,639 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 06:59:50,646 - 127.0.0.1 - - [25/May/2026 06:59:50] "GET /login HTTP/1.1" 200 -
+2026-05-25 06:59:50,878 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 06:59:50,912 - 127.0.0.1 - - [25/May/2026 06:59:50] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-25 06:59:51,207 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-25 06:59:51,212 - 127.0.0.1 - - [25/May/2026 06:59:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 06:59:53,240 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-25 06:59:53,263 - 127.0.0.1 - - [25/May/2026 06:59:53] "GET /register HTTP/1.1" 200 -
+2026-05-25 06:59:53,484 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 06:59:53,495 - 127.0.0.1 - - [25/May/2026 06:59:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:00:22,927 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-25 07:00:22,973 - 127.0.0.1 - - [25/May/2026 07:00:22] "POST /register HTTP/1.1" 200 -
+2026-05-25 07:00:25,185 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:00:25,190 - 127.0.0.1 - - [25/May/2026 07:00:25] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:00:25,514 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:00:25,517 - 127.0.0.1 - - [25/May/2026 07:00:25] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:00:25,661 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:00:25,667 - 127.0.0.1 - - [25/May/2026 07:00:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:00:34,635 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:00:34,650 - FAILED LOGIN - IP: 127.0.0.1 User: Mani
+2026-05-25 07:00:34,652 - 127.0.0.1 - - [25/May/2026 07:00:34] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-25 07:00:41,849 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:00:41,858 - FAILED LOGIN - IP: 127.0.0.1 User: Mani
+2026-05-25 07:00:41,859 - 127.0.0.1 - - [25/May/2026 07:00:41] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-25 07:00:51,743 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:00:51,759 - FAILED LOGIN - IP: 127.0.0.1 User: mani
+2026-05-25 07:00:51,760 - 127.0.0.1 - - [25/May/2026 07:00:51] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-25 07:00:54,462 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:00:54,473 - FAILED LOGIN - IP: 127.0.0.1 User: mani
+2026-05-25 07:00:54,475 - 127.0.0.1 - - [25/May/2026 07:00:54] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-25 07:01:04,701 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:01:04,715 - SUCCESS LOGIN - IP: 127.0.0.1 User: Mani
+2026-05-25 07:01:04,727 - 127.0.0.1 - - [25/May/2026 07:01:04] "POST /login HTTP/1.1" 200 -
+2026-05-25 07:01:04,910 - IP: 127.0.0.1 Method: GET Path: / User: Mani
+2026-05-25 07:01:04,932 - 127.0.0.1 - - [25/May/2026 07:01:04] "GET / HTTP/1.1" 200 -
+2026-05-25 07:01:05,066 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Mani
+2026-05-25 07:01:05,080 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Mani
+2026-05-25 07:01:05,091 - 127.0.0.1 - - [25/May/2026 07:01:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:01:05,096 - 127.0.0.1 - - [25/May/2026 07:01:05] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-25 07:01:05,260 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Mani
+2026-05-25 07:01:05,266 - 127.0.0.1 - - [25/May/2026 07:01:05] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:01:54,292 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Mani
+2026-05-25 07:01:55,440 - 127.0.0.1 - - [25/May/2026 07:01:55] "POST /api/scan HTTP/1.1" 200 -
+2026-05-25 07:01:55,585 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Mani
+2026-05-25 07:01:55,594 - 127.0.0.1 - - [25/May/2026 07:01:55] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:02:15,738 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Mani
+2026-05-25 07:02:15,751 - 127.0.0.1 - - [25/May/2026 07:02:15] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:03:25,020 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Mani
+2026-05-25 07:03:27,215 - 127.0.0.1 - - [25/May/2026 07:03:27] "POST /api/scan HTTP/1.1" 200 -
+2026-05-25 07:03:27,389 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Mani
+2026-05-25 07:03:27,402 - 127.0.0.1 - - [25/May/2026 07:03:27] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:03:38,491 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Mani
+2026-05-25 07:03:40,641 - 127.0.0.1 - - [25/May/2026 07:03:40] "POST /api/scan HTTP/1.1" 200 -
+2026-05-25 07:03:40,828 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Mani
+2026-05-25 07:03:40,841 - 127.0.0.1 - - [25/May/2026 07:03:40] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:03:44,341 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Mani
+2026-05-25 07:03:46,481 - 127.0.0.1 - - [25/May/2026 07:03:46] "POST /api/scan HTTP/1.1" 200 -
+2026-05-25 07:03:46,614 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Mani
+2026-05-25 07:03:46,627 - 127.0.0.1 - - [25/May/2026 07:03:46] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:03:55,584 - IP: 127.0.0.1 Method: GET Path: /logout User: Mani
+2026-05-25 07:03:55,586 - 127.0.0.1 - - [25/May/2026 07:03:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-05-25 07:03:55,731 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:03:55,735 - 127.0.0.1 - - [25/May/2026 07:03:55] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:03:55,934 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:03:55,942 - 127.0.0.1 - - [25/May/2026 07:03:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:03:59,289 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-25 07:03:59,294 - 127.0.0.1 - - [25/May/2026 07:03:59] "GET /register HTTP/1.1" 200 -
+2026-05-25 07:11:30,988 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 07:11:31,002 - 127.0.0.1 - - [25/May/2026 07:11:31] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 07:11:31,183 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:11:31,196 - 127.0.0.1 - - [25/May/2026 07:11:31] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:11:31,362 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-25 07:11:31,368 - 127.0.0.1 - - [25/May/2026 07:11:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 07:11:51,455 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 07:11:51,459 - 127.0.0.1 - - [25/May/2026 07:11:51] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 07:11:51,707 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:11:51,711 - 127.0.0.1 - - [25/May/2026 07:11:51] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:11:52,023 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:11:52,057 - 127.0.0.1 - - [25/May/2026 07:11:52] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-25 07:11:52,341 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-25 07:11:52,345 - 127.0.0.1 - - [25/May/2026 07:11:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 07:12:07,723 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:12:07,786 - FAILED LOGIN - IP: 127.0.0.1 User: Karthik
+2026-05-25 07:12:07,792 - 127.0.0.1 - - [25/May/2026 07:12:07] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-05-25 07:12:15,398 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 07:12:15,401 - 127.0.0.1 - - [25/May/2026 07:12:15] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 07:12:15,601 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:12:15,604 - 127.0.0.1 - - [25/May/2026 07:12:15] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:12:15,806 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:12:15,823 - 127.0.0.1 - - [25/May/2026 07:12:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:12:17,789 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-25 07:12:17,806 - 127.0.0.1 - - [25/May/2026 07:12:17] "GET /register HTTP/1.1" 200 -
+2026-05-25 07:12:18,066 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:12:18,076 - 127.0.0.1 - - [25/May/2026 07:12:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:12:39,616 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-25 07:12:39,785 - 127.0.0.1 - - [25/May/2026 07:12:39] "POST /register HTTP/1.1" 200 -
+2026-05-25 07:12:40,993 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-25 07:12:41,019 - 127.0.0.1 - - [25/May/2026 07:12:41] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2026-05-25 07:12:43,889 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:12:43,891 - 127.0.0.1 - - [25/May/2026 07:12:43] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:12:44,153 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:12:44,215 - 127.0.0.1 - - [25/May/2026 07:12:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:12:55,398 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:12:55,410 - SUCCESS LOGIN - IP: 127.0.0.1 User: Karthik
+2026-05-25 07:12:55,428 - 127.0.0.1 - - [25/May/2026 07:12:55] "POST /login HTTP/1.1" 200 -
+2026-05-25 07:12:55,648 - IP: 127.0.0.1 Method: GET Path: / User: Karthik
+2026-05-25 07:12:55,653 - 127.0.0.1 - - [25/May/2026 07:12:55] "GET / HTTP/1.1" 200 -
+2026-05-25 07:12:56,033 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Karthik
+2026-05-25 07:12:56,041 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Karthik
+2026-05-25 07:12:56,048 - 127.0.0.1 - - [25/May/2026 07:12:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:12:56,053 - 127.0.0.1 - - [25/May/2026 07:12:56] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-25 07:12:56,246 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Karthik
+2026-05-25 07:12:56,258 - 127.0.0.1 - - [25/May/2026 07:12:56] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:14:14,502 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Karthik
+2026-05-25 07:14:16,279 - 127.0.0.1 - - [25/May/2026 07:14:16] "POST /api/scan HTTP/1.1" 200 -
+2026-05-25 07:14:16,496 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Karthik
+2026-05-25 07:14:16,515 - 127.0.0.1 - - [25/May/2026 07:14:16] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:15:20,418 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 07:15:20,428 - 127.0.0.1 - - [25/May/2026 07:15:20] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 07:15:21,066 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:15:21,090 - 127.0.0.1 - - [25/May/2026 07:15:21] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:15:21,396 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:15:21,421 - 127.0.0.1 - - [25/May/2026 07:15:21] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-25 07:15:21,669 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-25 07:15:21,676 - 127.0.0.1 - - [25/May/2026 07:15:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-25 07:15:34,428 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 07:15:34,430 - 127.0.0.1 - - [25/May/2026 07:15:34] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 07:15:34,617 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:15:34,620 - 127.0.0.1 - - [25/May/2026 07:15:34] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:15:34,833 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:15:34,846 - 127.0.0.1 - - [25/May/2026 07:15:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:15:39,856 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-05-25 07:15:39,868 - 127.0.0.1 - - [25/May/2026 07:15:39] "GET /register HTTP/1.1" 200 -
+2026-05-25 07:15:40,160 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:15:40,171 - 127.0.0.1 - - [25/May/2026 07:15:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:16:22,754 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-05-25 07:16:22,828 - 127.0.0.1 - - [25/May/2026 07:16:22] "POST /register HTTP/1.1" 200 -
+2026-05-25 07:16:25,311 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 07:16:25,317 - 127.0.0.1 - - [25/May/2026 07:16:25] "GET /login HTTP/1.1" 200 -
+2026-05-25 07:16:26,022 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 07:16:26,035 - 127.0.0.1 - - [25/May/2026 07:16:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:16:32,021 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-05-25 07:16:32,028 - SUCCESS LOGIN - IP: 127.0.0.1 User: Venkatesh
+2026-05-25 07:16:32,030 - 127.0.0.1 - - [25/May/2026 07:16:32] "POST /login HTTP/1.1" 200 -
+2026-05-25 07:16:32,251 - IP: 127.0.0.1 Method: GET Path: / User: Venkatesh
+2026-05-25 07:16:32,259 - 127.0.0.1 - - [25/May/2026 07:16:32] "GET / HTTP/1.1" 200 -
+2026-05-25 07:16:32,464 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Venkatesh
+2026-05-25 07:16:32,467 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Venkatesh
+2026-05-25 07:16:32,477 - 127.0.0.1 - - [25/May/2026 07:16:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-05-25 07:16:32,480 - 127.0.0.1 - - [25/May/2026 07:16:32] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-05-25 07:16:32,725 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Venkatesh
+2026-05-25 07:16:32,733 - 127.0.0.1 - - [25/May/2026 07:16:32] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 07:17:08,533 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Venkatesh
+2026-05-25 07:17:09,365 - 127.0.0.1 - - [25/May/2026 07:17:09] "POST /api/scan HTTP/1.1" 200 -
+2026-05-25 07:17:09,597 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Venkatesh
+2026-05-25 07:17:09,613 - 127.0.0.1 - - [25/May/2026 07:17:09] "GET /api/scans HTTP/1.1" 200 -
+2026-05-25 09:02:29,546 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-05-25 09:02:29,564 - 127.0.0.1 - - [25/May/2026 09:02:29] "[32mGET / HTTP/1.1[0m" 302 -
+2026-05-25 09:02:30,401 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-05-25 09:02:30,413 - 127.0.0.1 - - [25/May/2026 09:02:30] "GET /login HTTP/1.1" 200 -
+2026-05-25 09:02:31,030 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-05-25 09:02:31,054 - 127.0.0.1 - - [25/May/2026 09:02:31] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-05-25 09:02:31,331 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-05-25 09:02:31,339 - 127.0.0.1 - - [25/May/2026 09:02:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-20 14:32:49,093 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.125.245.190:5000
+2026-06-20 14:32:49,094 - [33mPress CTRL+C to quit[0m
+2026-06-20 14:32:49,104 -  * Restarting with stat
+2026-06-20 14:32:50,732 -  * Debugger is active!
+2026-06-20 14:32:50,819 -  * Debugger PIN: 561-555-212
+2026-06-20 14:34:38,382 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-06-20 14:34:38,399 - 127.0.0.1 - - [20/Jun/2026 14:34:38] "[32mGET / HTTP/1.1[0m" 302 -
+2026-06-20 14:34:38,646 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-06-20 14:34:38,699 - 127.0.0.1 - - [20/Jun/2026 14:34:38] "GET /login HTTP/1.1" 200 -
+2026-06-20 14:34:38,897 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-06-20 14:34:38,903 - 127.0.0.1 - - [20/Jun/2026 14:34:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-20 14:35:07,560 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-06-20 14:35:07,566 - 127.0.0.1 - - [20/Jun/2026 14:35:07] "[32mGET / HTTP/1.1[0m" 302 -
+2026-06-20 14:35:07,754 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-06-20 14:35:07,769 - 127.0.0.1 - - [20/Jun/2026 14:35:07] "GET /login HTTP/1.1" 200 -
+2026-06-20 14:35:07,981 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-06-20 14:35:08,012 - 127.0.0.1 - - [20/Jun/2026 14:35:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-06-20 14:35:27,387 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:35:27,437 - FAILED LOGIN - IP: 127.0.0.1 User: Niku endhuku
+2026-06-20 14:35:27,439 - 127.0.0.1 - - [20/Jun/2026 14:35:27] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:35:28,923 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:35:28,934 - FAILED LOGIN - IP: 127.0.0.1 User: Niku endhuku
+2026-06-20 14:35:28,936 - 127.0.0.1 - - [20/Jun/2026 14:35:28] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:35:29,943 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-06-20 14:35:29,966 - 127.0.0.1 - - [20/Jun/2026 14:35:29] "GET /register HTTP/1.1" 200 -
+2026-06-20 14:35:30,188 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-06-20 14:35:30,194 - 127.0.0.1 - - [20/Jun/2026 14:35:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-06-20 14:36:21,603 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:21,614 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:21,616 - 127.0.0.1 - - [20/Jun/2026 14:36:21] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:22,565 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:22,595 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:22,596 - 127.0.0.1 - - [20/Jun/2026 14:36:22] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:23,166 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:23,192 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:23,196 - 127.0.0.1 - - [20/Jun/2026 14:36:23] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:23,420 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:23,433 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:23,434 - 127.0.0.1 - - [20/Jun/2026 14:36:23] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:23,619 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:23,641 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:23,645 - 127.0.0.1 - - [20/Jun/2026 14:36:23] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:23,783 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:23,802 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:23,805 - 127.0.0.1 - - [20/Jun/2026 14:36:23] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:26,989 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:27,012 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:27,015 - 127.0.0.1 - - [20/Jun/2026 14:36:27] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:27,570 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:27,592 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:27,596 - 127.0.0.1 - - [20/Jun/2026 14:36:27] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:27,757 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:27,781 - FAILED LOGIN - IP: 127.0.0.1 User: Charith
+2026-06-20 14:36:27,786 - 127.0.0.1 - - [20/Jun/2026 14:36:27] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:37,258 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:37,264 - FAILED LOGIN - IP: 127.0.0.1 User: Cherry
+2026-06-20 14:36:37,265 - 127.0.0.1 - - [20/Jun/2026 14:36:37] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:37,816 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:37,822 - FAILED LOGIN - IP: 127.0.0.1 User: Cherry
+2026-06-20 14:36:37,822 - 127.0.0.1 - - [20/Jun/2026 14:36:37] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:38,122 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:36:38,127 - FAILED LOGIN - IP: 127.0.0.1 User: Cherry
+2026-06-20 14:36:38,128 - 127.0.0.1 - - [20/Jun/2026 14:36:38] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:36:41,229 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-06-20 14:36:41,237 - 127.0.0.1 - - [20/Jun/2026 14:36:41] "GET /register HTTP/1.1" 200 -
+2026-06-20 14:36:42,003 - IP: 127.0.0.1 Method: GET Path: /register User: NOT LOGGED IN
+2026-06-20 14:36:42,005 - 127.0.0.1 - - [20/Jun/2026 14:36:42] "GET /register HTTP/1.1" 200 -
+2026-06-20 14:36:42,297 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-06-20 14:36:42,303 - 127.0.0.1 - - [20/Jun/2026 14:36:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-06-20 14:36:58,598 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-06-20 14:36:58,649 - 127.0.0.1 - - [20/Jun/2026 14:36:58] "POST /register HTTP/1.1" 200 -
+2026-06-20 14:36:59,315 - IP: 127.0.0.1 Method: POST Path: /register User: NOT LOGGED IN
+2026-06-20 14:36:59,341 - 127.0.0.1 - - [20/Jun/2026 14:36:59] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2026-06-20 14:37:01,019 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-06-20 14:37:01,022 - 127.0.0.1 - - [20/Jun/2026 14:37:01] "GET /login HTTP/1.1" 200 -
+2026-06-20 14:37:01,283 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-06-20 14:37:01,288 - 127.0.0.1 - - [20/Jun/2026 14:37:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-06-20 14:37:26,588 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:37:26,633 - FAILED LOGIN - IP: 127.0.0.1 User: Admin
+2026-06-20 14:37:26,640 - 127.0.0.1 - - [20/Jun/2026 14:37:26] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2026-06-20 14:37:35,499 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 14:37:35,555 - SUCCESS LOGIN - IP: 127.0.0.1 User: Admin
+2026-06-20 14:37:35,569 - 127.0.0.1 - - [20/Jun/2026 14:37:35] "POST /login HTTP/1.1" 200 -
+2026-06-20 14:37:35,878 - IP: 127.0.0.1 Method: GET Path: / User: Admin
+2026-06-20 14:37:35,931 - 127.0.0.1 - - [20/Jun/2026 14:37:35] "GET / HTTP/1.1" 200 -
+2026-06-20 14:37:36,354 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: Admin
+2026-06-20 14:37:36,379 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: Admin
+2026-06-20 14:37:36,392 - 127.0.0.1 - - [20/Jun/2026 14:37:36] "GET /static/css/style.css HTTP/1.1" 200 -
+2026-06-20 14:37:36,405 - 127.0.0.1 - - [20/Jun/2026 14:37:36] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-06-20 14:37:36,878 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Admin
+2026-06-20 14:37:36,907 - 127.0.0.1 - - [20/Jun/2026 14:37:36] "GET /api/scans HTTP/1.1" 200 -
+2026-06-20 14:38:56,825 - IP: 127.0.0.1 Method: POST Path: /api/scan User: Admin
+2026-06-20 14:39:02,871 - 127.0.0.1 - - [20/Jun/2026 14:39:02] "POST /api/scan HTTP/1.1" 200 -
+2026-06-20 14:39:03,211 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Admin
+2026-06-20 14:39:03,221 - 127.0.0.1 - - [20/Jun/2026 14:39:03] "GET /api/scans HTTP/1.1" 200 -
+2026-06-20 14:39:09,895 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Admin
+2026-06-20 14:39:09,928 - 127.0.0.1 - - [20/Jun/2026 14:39:09] "GET /api/scans HTTP/1.1" 200 -
+2026-06-20 14:39:10,843 - IP: 127.0.0.1 Method: GET Path: /api/scans User: Admin
+2026-06-20 14:39:10,852 - 127.0.0.1 - - [20/Jun/2026 14:39:10] "GET /api/scans HTTP/1.1" 200 -
+2026-06-20 15:05:59,023 - IP: 127.0.0.1 Method: GET Path: / User: NOT LOGGED IN
+2026-06-20 15:05:59,034 - 127.0.0.1 - - [20/Jun/2026 15:05:59] "[32mGET / HTTP/1.1[0m" 302 -
+2026-06-20 15:05:59,225 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-06-20 15:05:59,241 - 127.0.0.1 - - [20/Jun/2026 15:05:59] "GET /login HTTP/1.1" 200 -
+2026-06-20 15:05:59,517 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-06-20 15:05:59,538 - 127.0.0.1 - - [20/Jun/2026 15:05:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-06-20 15:05:59,791 - IP: 127.0.0.1 Method: GET Path: /favicon.ico User: NOT LOGGED IN
+2026-06-20 15:05:59,798 - 127.0.0.1 - - [20/Jun/2026 15:05:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-20 15:06:09,942 - IP: 127.0.0.1 Method: POST Path: /login User: NOT LOGGED IN
+2026-06-20 15:06:10,010 - SUCCESS LOGIN - IP: 127.0.0.1 User: admin
+2026-06-20 15:06:10,024 - 127.0.0.1 - - [20/Jun/2026 15:06:10] "POST /login HTTP/1.1" 200 -
+2026-06-20 15:06:10,234 - IP: 127.0.0.1 Method: GET Path: / User: admin
+2026-06-20 15:06:10,246 - 127.0.0.1 - - [20/Jun/2026 15:06:10] "GET / HTTP/1.1" 200 -
+2026-06-20 15:06:10,497 - IP: 127.0.0.1 Method: GET Path: /static/js/app.js User: admin
+2026-06-20 15:06:10,511 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: admin
+2026-06-20 15:06:10,522 - 127.0.0.1 - - [20/Jun/2026 15:06:10] "GET /static/js/app.js HTTP/1.1" 200 -
+2026-06-20 15:06:10,530 - 127.0.0.1 - - [20/Jun/2026 15:06:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-06-20 15:06:10,800 - IP: 127.0.0.1 Method: GET Path: /api/scans User: admin
+2026-06-20 15:06:10,829 - 127.0.0.1 - - [20/Jun/2026 15:06:10] "GET /api/scans HTTP/1.1" 200 -
+2026-06-20 15:06:34,845 - IP: 127.0.0.1 Method: GET Path: /logout User: admin
+2026-06-20 15:06:34,849 - 127.0.0.1 - - [20/Jun/2026 15:06:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-06-20 15:06:35,014 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-06-20 15:06:35,020 - 127.0.0.1 - - [20/Jun/2026 15:06:35] "GET /login HTTP/1.1" 200 -
+2026-06-20 15:06:35,217 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-06-20 15:06:35,230 - 127.0.0.1 - - [20/Jun/2026 15:06:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2026-06-20 15:06:40,215 - IP: 127.0.0.1 Method: GET Path: /logout User: NOT LOGGED IN
+2026-06-20 15:06:40,221 - 127.0.0.1 - - [20/Jun/2026 15:06:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+2026-06-20 15:06:40,397 - IP: 127.0.0.1 Method: GET Path: /login User: NOT LOGGED IN
+2026-06-20 15:06:40,400 - 127.0.0.1 - - [20/Jun/2026 15:06:40] "GET /login HTTP/1.1" 200 -
+2026-06-20 15:06:40,619 - IP: 127.0.0.1 Method: GET Path: /static/css/style.css User: NOT LOGGED IN
+2026-06-20 15:06:40,631 - 127.0.0.1 - - [20/Jun/2026 15:06:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

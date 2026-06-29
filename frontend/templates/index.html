@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NetRecon</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+
+        <button class="logout-btn" onclick="window.location.href='/logout'">Logout</button>
+        <p class="welcome-msg">Welcome, {{ username }}</p>
+        <h1>NetRecon</h1>
+        <p>Network Reconnaissance Tool</p>
+    </div>
+
+    <div class="scan-box">
+        <h2>New Scan</h2>
+        <input type="text" id="target" placeholder="Enter IP or domain (e.g. scanme.nmap.org)">
+        <select id="scan_type">
+            <option value="basic">Basic Scan</option>
+            <option value="full">Full Scan</option>
+            <option value="ping">Ping Scan</option>
+        </select>
+        <button id="scan-btn" onclick="startScan()">Start Scan</button>
+    </div>
+
+    <div class="status-box" id="status-box" style="display:none;">
+        <p id="status-msg">Scanning please wait...</p>
+    </div>
+
+    <div class="results-box" id="results-box" style="display:none;">
+        <h2>Scan Results</h2>
+        <div id="summary"></div>
+        <div id="hosts"></div>
+    </div>
+
+    <div class="history-box">
+        <h2>Scan History</h2>
+        <button onclick="loadHistory()">Refresh History</button>
+        <div id="history"></div>
+    </div>
+
+</div>
+
+<script src="/static/js/app.js"></script>
+
+</body>
+</html>

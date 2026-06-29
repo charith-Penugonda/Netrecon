@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NetRecon Register</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+<div class="auth-container">
+
+    <div class="auth-header">
+        <h1>NetRecon</h1>
+        <p>Network Reconnaissance Tool</p>
+    </div>
+
+    <div class="auth-box">
+        <h2>Register</h2>
+
+        <div id="error-msg" class="error-msg" style="display:none;"></div>
+        <div id="success-msg" class="success-msg" style="display:none;"></div>
+
+        <input type="text" id="username" placeholder="Username">
+        <input type="password" id="password" placeholder="Password">
+        <input type="password" id="confirm" placeholder="Confirm Password">
+        <button onclick="doRegister()">Register</button>
+
+        <p class="auth-link">
+            Already have account? <a href="/login">Login here</a>
+        </p>
+    </div>
+
+</div>
+
+<script>
+function doRegister() {
+    var username = document.getElementById('username').value.trim();
+    var password = document.getElementById('password').value.trim();
+    var confirm = document.getElementById('confirm').value.trim();
+
+    if (!username || !password || !confirm) {
+        showError('All fields are required');
+        return;
+    }
+
+    if (password !== confirm) {
+        showError('Passwords do not match');
+        return;
+    }
+
+    if (password.length < 6) {
+        showError('Password must be at least 6 characters');
+        return;
+    }
+
+    fetch('/register', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username: username, password: password })
+    })
+    .then(function(res) { return res.json(); })
+    .then(function(data) {
+        if (data.success) {
+            showSuccess('Account created! Redirecting to login...');
+            setTimeout(function() {
+                window.location.href = '/login';
+            }, 2000);
+        } else {
+            showError(data.error);
+        }
+    })
+    .catch(function(err) {
+        showError('Connection error');
+    });
+}
+
+function showError(msg) {
+    var el = document.getElementById('error-msg');
+    el.innerText = msg;
+    el.style.display = 'block';
+    document.getElementById('success-msg').style.display = 'none';
+}
+
+function showSuccess(msg) {
+    var el = document.getElementById('success-msg');
+    el.innerText = msg;
+    el.style.display = 'block';
+    document.getElementById('error-msg').style.display = 'none';
+}
+</script>
+
+</body>
+</html>
